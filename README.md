@@ -44,7 +44,7 @@ My proposed M.Tech dissertation explores:
 
 - Endpoint Security — Cisco Networking Academy (2026)
 - Introduction to Cybersecurity — Cisco Networking Academy (2026)
-- Data Science & Analytics** — HP LIFE (2025)
+- Data Science & Analytics — HP LIFE (2025)
 
 ---
 
