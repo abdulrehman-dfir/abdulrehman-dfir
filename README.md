@@ -36,14 +36,14 @@ My proposed M.Tech dissertation explores:
 
 🎓 Education
 
-- M.Tech CSE** — Graphic Era Hill University (Pursuing)
+- M.Tech CSE — Graphic Era Hill University (Pursuing)
 
 ---
 
 📜 Courses & Certifications
 
-- Endpoint Security** — Cisco Networking Academy (2026)
-- Introduction to Cybersecurity** — Cisco Networking Academy (2026)
+- Endpoint Security — Cisco Networking Academy (2026)
+- Introduction to Cybersecurity — Cisco Networking Academy (2026)
 - Data Science & Analytics** — HP LIFE (2025)
 
 ---
